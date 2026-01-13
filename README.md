@@ -1,4 +1,7 @@
 # The Lights Are Still On
+## Lunar Drill Labs - Game Development Studio
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/4409f2cf-d584-46c1-8d13-1bba38072557" />
 
 A 2D narrative horror platformer about a child, a broken lantern, and a town trapped in eternal night.
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7227db12-5900-4905-88a8-932568c0e0d4" />
