@@ -109,6 +109,8 @@ The town reacts to prolonged spectral use. Lights flicker. Sounds warp.
 * Teach restraint and risk
 * Reinforce consequence-based mechanics
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8501837a-89e7-43fa-8e2f-3aa54c46500a" />
+
 ---
 
 ## Chapter 5 — The First Confrontation
