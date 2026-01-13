@@ -166,6 +166,8 @@ The boy begins to realize the lantern is not just a tool—it wants to be used.
 * Undermine player confidence
 * Prepare for the climax
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/611e8b55-50c8-44c6-bfd9-c50b75d7dd27" />
+
 ---
 
 ## Chapter 8 — The Father
