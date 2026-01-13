@@ -27,6 +27,8 @@ During the journey, the world subtly changes. Daylight dulls, the radio cuts out
 * Introduce mystery
 * Ground the story emotionally
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6f11e9a7-e70a-4819-a747-e59a297b3bd7" />
+
 ---
 
 ## Chapter 1 — The Town That Never Sleeps
@@ -43,6 +45,8 @@ When the boy attempts to leave, the road bends back into town. The fog thickens.
 * Establish the town’s core atmosphere
 * Introduce the time anomaly
 * Create unease without immediate horror
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1db29e5a-517d-455b-bb8c-ac2185a03038" />
 
 ---
 
@@ -66,6 +70,8 @@ No explanation is given. Only caution.
 * Introduce the lantern
 * Establish rules without exposition
 * Strengthen family connection
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6bbd9580-9899-45c4-8120-0d22d59131ae" />
 
 ---
 
