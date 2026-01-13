@@ -185,6 +185,8 @@ Release may be impossible. Failure is likely. The lantern behaves erratically.
 * Confront limits of control
 * Reinforce central themes
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/0f9ef38b-3b97-42f8-b4f8-2d0c3be52595" />
+
 ---
 
 ## Chapter 9 — The Town Remembers
@@ -199,6 +201,8 @@ The boy moves through familiar spaces. Depending on earlier choices, some lights
 * Show consequences
 * Slow pacing
 * Encourage reflection
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/30b671c3-eebe-448d-be7d-17ec9f0251e3" />
 
 ---
 
