@@ -147,6 +147,8 @@ Through careful interaction and lantern use, some can be released. Others may re
 * Introduce irreversible choices
 * Tie mechanics directly to story
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f70722e4-d664-445b-867e-af0fba5cf31f" />
+
 ---
 
 ## Chapter 7 — Instability
