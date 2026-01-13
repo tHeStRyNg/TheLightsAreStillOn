@@ -90,6 +90,8 @@ Using the lantern lightly reveals subtle distortions—walls ripple, shapes vani
 * Allow experimentation
 * Build anticipation
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/b135f046-9e92-4a4a-b55b-11010b8728c1" />
+
 ---
 
 ## Chapter 4 — Watchers
