@@ -225,6 +225,8 @@ The town remains. The lights may go out—or stay on forever.
 * Ambiguity
 * Lingering emotional impact
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a44372f7-fff4-4f4b-bf3b-367ef1be7966" />
+
 ---
 
 ## Notes
