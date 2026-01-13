@@ -1,7 +1,7 @@
 # The Lights Are Still On
 
 A 2D narrative horror platformer about a child, a broken lantern, and a town trapped in eternal night.
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7227db12-5900-4905-88a8-932568c0e0d4" />
 ---
 
 ## Overview
@@ -14,6 +14,13 @@ The town is not empty.
 It is waiting.
 
 ---
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7227db12-5900-4905-88a8-932568c0e0d4" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1bfe836a-defa-452d-b06c-e03721f76ff1" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/3f9657e5-c78c-4b42-bb64-79bc6586b197" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/fe99b016-a1e0-452c-b954-3a2a42bd163d" />
+<img width="1071" height="613" alt="image" src="https://github.com/user-attachments/assets/1cef7cc8-1859-4623-bccf-4a3f47ae2f35" />
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/220f1053-021b-4fb4-8006-6984616b051b" />
+
 
 ## Core Experience
 
