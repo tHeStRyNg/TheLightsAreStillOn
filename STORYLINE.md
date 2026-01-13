@@ -128,6 +128,8 @@ The lantern can reveal and weaken the entity, but it flickers unpredictably. Sur
 * Teach combat and survival rules
 * Raise stakes
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/6080a6d8-cc9a-43f7-a690-22e84957b36e" />
+
 ---
 
 ## Chapter 6 — Bound Souls
